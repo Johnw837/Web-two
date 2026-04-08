@@ -8,7 +8,7 @@
 </head>
 
 <body>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <h1>Pattern Memory Game</h1>
 
 <p id="info">Watch the pattern...</p>
