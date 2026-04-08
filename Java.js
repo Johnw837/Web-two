@@ -1,3 +1,4 @@
+alert("JavaScript is working!");
 const grid = document.getElementById("grid");
 const startBtn = document.getElementById("start");
 const info = document.getElementById("info");
